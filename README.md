@@ -1,3 +1,6 @@
+Hey, I'm Alex 👋<br>22, from Paris. I'm studying programming at Turgot High School.<br><br>🔭 Learning Svelte at the moment.<br>🌱 Planning to get into React Native and mobile dev this year.<br>👯 Open to working on cool projects.<br>🚀 I want to take on bigger and more ambitious projects this year.
+
+
 # 💻 Tech Stack
 
 **Frontend**  
